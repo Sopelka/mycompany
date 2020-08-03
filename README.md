@@ -1,0 +1,2 @@
+# mycompany
+training project
